@@ -12,5 +12,7 @@
 
 6. Demo asymmetric key
 
-7. Demo asymmetric key signature
+7. Demo valid asymmetric key signature usage
+
+8. Demo asymmetric key signature where Bob's Signature is sent, but the text is altered
 
