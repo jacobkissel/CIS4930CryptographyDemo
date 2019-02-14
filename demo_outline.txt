@@ -5,13 +5,8 @@
 
 3. Demo map newjobfixmrgluckshazytvpdq
 
-4. Demo map hijklmnopqrstuvwxyzabcdefg 
-	a. This is the same as encrypting with a rotation of 7.
+4. Demo symmetric key
 
-5. Demo symmetric key
+5. Demo asymmetric key with signature
 
-6. Demo asymmetric key
-
-7. Demo valid asymmetric key signature usage
-
-8. Demo asymmetric key signature where Bob's Signature is sent, but the text is altered
+6. Demo asymmetric key signature where Bob's Signature is sent, but the text is altered
