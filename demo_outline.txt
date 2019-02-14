@@ -1,0 +1,16 @@
+1. Demo cyclical rotation of something thats not 13
+	Olssv Dvysk
+2. Demo rotation of 13
+	a. You don't have to use two different methods to encrypt and decrypt this.
+
+3. Demo map newjobfixmrgluckshazytvpdq
+
+4. Demo map hijklmnopqrstuvwxyzabcdefg 
+	a. This is the same as encrypting with a rotation of 7.
+
+5. Demo symmetric key
+
+6. Demo asymmetric key
+
+7. Demo asymmetric key signature
+
