@@ -1,13 +1,15 @@
-Setup:
-
-Install Python 3
+Setup (example commands are for Ubuntu)
+Python comes installed with Ubuntu in the current versions.
 
 Install pip3
+  sudo apt install python3-pip
 
-Install cryptography using pip
-
-Might need to do chmod +rwx encryption_demo.py
-
+Install cryptography package using pip
+  pip3 install cryptography
+  
+To run the program use the command
+  python3 ./encryption_demo.py
+  
 --------------------------------------- Key Generation Instructions ----------------------------------
 
 You can either use the examples at the bottom of this file or follow the directions to generate your 
@@ -19,9 +21,11 @@ For map encryption, what is needed is a 26 character long string with one of eac
 in it in any order.
 
 For symmetric key encryption, run the program make_sym_key.py to get a randomly generated symmetric key.
-
+  python3 ./make_sym_key.py
+  
 For asymmetric key encryption, run the program make_asym_keys.py to get a randomly generated private 
 key with a corresponding public key.
+  python3 ./make_asym_keys.py
 
 ------------------------------------------ Premade Examples --------------------------------------------
 
