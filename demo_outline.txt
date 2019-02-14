@@ -1,5 +1,5 @@
-1. Demo cyclical rotation of something thats not 13
-	Olssv Dvysk
+1. Demo cyclical rotation of something thats not 13 (e.g. 7)
+
 2. Demo rotation of 13
 	a. You don't have to use two different methods to encrypt and decrypt this.
 
@@ -15,4 +15,3 @@
 7. Demo valid asymmetric key signature usage
 
 8. Demo asymmetric key signature where Bob's Signature is sent, but the text is altered
-
